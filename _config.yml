@@ -72,5 +72,5 @@ theme: landscape
 
 deploy:
   type: git
-  repository: git@github.com:JH000000/gitJH000000.github.io.git
+  repository: https://github.com/JH000000/gitJH000000.github.io.git
   branch: master
